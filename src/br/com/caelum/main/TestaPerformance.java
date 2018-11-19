@@ -30,6 +30,8 @@ public class TestaPerformance {
 		long tempo = fim - inicio;
 
 		System.out.println("Tempo gasto: " + tempo);
+		
+		
 
 	}
 
